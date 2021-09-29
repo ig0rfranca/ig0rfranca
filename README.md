@@ -1,6 +1,5 @@
 Olá!!
 
-➡️ Meu nome é Igor, faço faculdade de ADS, e há menos de um ano descobri minha paixão 
-pela solução de problemas através do desenvolvimento de softwares😄
+➡️ Meu nome é Igor, sou desenvolvedor Full Stack, mas atualmente estou mais focado no desenvolvimento Front
 
-➡️ Atualmente faço estágio em TI e busco sempre estar evoluindo como pessoa e como dev!🤓
+➡️ Faço estágio em desenvolvimento Front-End e busco sempre estar evoluindo como pessoa e como dev!🤓
