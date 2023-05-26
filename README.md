@@ -1,3 +1,1 @@
-Olá!!
-
-➡️ Meu nome é Igor, sou desenvolvedor Full Stack, mas atualmente estou mais focado no desenvolvimento Front
+Desenvolvedor front-end há 3 anos utilizando tecnologias como: React.js, JavaScript, HTML, CSS, SASS e Bootstrap. Além disso, sou familiarizado com metodologia ágil, Azure DevOps, Jira e também tenho habilidades em design de interfaces utilizando o Figma.
